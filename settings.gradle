@@ -1,0 +1,2 @@
+rootProject.name = "GoWalk"
+include ':app'
